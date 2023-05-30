@@ -1,10 +1,5 @@
 # КЛАССИФИКАЦИЯ КОЛЕСНЫХ ФОРВАРДЕРОВ НА ОСНОВЕ КЛАСТЕРИЗАЦИИ В ПРОСТРАНСТВЕ ГЛАВНЫХ КОМПОНЕНТ
 
-*Для запуска, нажмите кнопку ниже:*
- 
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danielka777/Forwards/blob/main/ML_project.ipynb)
-
-
 **Целью работы** является разработка классификации колесных форвардеров с учетом расширенного перечня эксплуатационных характеристик.
 
 Материалом для разработки классификации являются сведения, представленные на официальных сайтах производителей Ponsse, Rottne, Komatsu, John Deere, Ecolog, HSM
@@ -19,3 +14,7 @@
 * Трубников Алексей – Препроцессинг данных, программирование
 * Хитров Егор – Математическая составляющая
 * Шепталенко Анастасия – Сбор данных, составление стеков технологий
+
+*Для запуска, нажмите кнопку ниже:*
+  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danielka777/Forwards/blob/main/ML_project.ipynb)
