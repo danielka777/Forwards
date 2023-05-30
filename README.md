@@ -22,6 +22,4 @@
 
 
 
-[![Open In ColabFunc](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danielka777/time-series-in-complex-network/blob/main/Functions.ipynb)
-
 
